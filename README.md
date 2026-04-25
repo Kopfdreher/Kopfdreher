@@ -1,8 +1,11 @@
- <img src="TransitionToSoftwareEngineering.jpg" align="right" width="300" style="border-radius: 15px;">
+
 
 ## Sergej Gavrilov | @Kopfdreher
-###  **I traded Figma for C++**
 
+
+ <img src="TransitionToSoftwareEngineering.jpg" width="200" style="border-radius: 12px;">
+ 
+###  **I traded Figma for C++**
  I am a **Designer turned Software Engineer** currently bridging the gap between aesthetic precision and technical logic[cite: 3].  While my background is rooted in high-end UI/UX and motion design, my current focus is mastering the core fundamentals of Computer Science.
 
 
