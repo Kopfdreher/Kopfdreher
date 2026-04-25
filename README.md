@@ -3,7 +3,7 @@
 ## Sergej Gavrilov | @Kopfdreher
 
 
- <img src="Github-Banner.webp" width="100%">
+ <img src="Github-Banner.png" width="100%">
  
 ###  **I traded Figma for C++**
  I am a **Designer turned Software Engineer** currently bridging the gap between aesthetic precision and technical logic[cite: 3].  While my background is rooted in high-end UI/UX and motion design, my current focus is mastering the core fundamentals of Computer Science.
