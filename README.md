@@ -6,7 +6,7 @@
  <img src="Github-Banner.png" width="100%">
  
 ###  **I traded Figma for C++**
- I am a **Designer turned Software Engineer** currently bridging the gap between aesthetic precision and technical logic[cite: 3].  While my background is rooted in high-end UI/UX and motion design, my current focus is mastering the core fundamentals of Computer Science.
+ I am a **Designer turned Software Engineer** currently bridging the gap between aesthetic precision and technical logic.  While my background is rooted in high-end UI/UX and motion design, my current focus is mastering the core fundamentals of Computer Science.
 
 
 *  **Design Pedigree:** Years of experience crafting digital experiences and motion graphics in Berlin and Hamburg.
