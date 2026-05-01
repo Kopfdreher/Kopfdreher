@@ -11,7 +11,7 @@
 
 *  **Design Pedigree:** Years of experience crafting digital experiences and motion graphics in Berlin and Hamburg.
 *  **Engineering Transition:** Currently deep-diving into the **Core Curriculum at 42 Berlin**, focusing on C, C++, and low-level programming.
-*  **The Hybrid Advantage:** I bring a designer's eye for detail to the world of software architecture, ensuring that what's "under the hood" is as refined as the interface.
+*  **The Hybrid Advantage:** I bring a designer's eye for aesthetics to the world of software architecture, ensuring that what's "under the hood" is as refined as the interface.
 
 ---
 
