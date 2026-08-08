@@ -3,8 +3,7 @@
 ## Sergej Gavrilov | @Kopfdreher
 
 ### 🛠️ Tech Stack
-*  **Development:** React, Vue, Typescript, NodeJS, NextJS, PostgreSQL, C++, C, Linux/Unix, Docker, Bash
-*  **Design** Figma, Creative Cloud, Framer
+*  **Development:** C++, C, GO, Linux/Unix, Docker, Bash, Typescript, NodeJS, NextJS, PostgreSQL
 
 ---
 
