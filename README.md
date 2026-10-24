@@ -6,7 +6,6 @@
 <p align="center">Product Designer turned Software Engineer — 42 Berlin</p>
 
 <p align="center">
-  <a href="https://sgavrilov.de">Website</a> ·
   <a href="https://www.linkedin.com/in/sergej-gavrilov/">LinkedIn</a>
 </p>
 
@@ -34,23 +33,23 @@ graph TD
 
     subgraph EDU [Product Design]
         direction TB
-        E1[B.A. Media 2018-23] --> E2[Google UX 2025] --> E3[M.A. Media 2023-26]
+        E1[Bachelor 2018—2023] --> E2[Google UX 2025] --> E3[Master 2023—2026]
     end
     style EDU fill:none,stroke:none
 
     subgraph JOB [Work Experience]
         direction TB
-        J1[Product Designer 2021-23] --> J2[Motion Designer 2024-25] --> J3[Design System Engineer 2025-26]
+        J1[Product Designer 2021—2023] --> J2[Motion Designer 2024—2025] --> J3[Design System Engineer 2025—2026]
     end
     style JOB fill:none,stroke:none
 
     subgraph SWE [Software Engineering]
         direction TB
-        S1[Tutor 2020-21] --> S2[42 Berlin 2024-26] --> S3[Fullstack Open 2026]
+        S1[Lectures Assistant 2020—2021] --> S2[42 Berlin 2025—2026] --> S3[Fullstack Open 2026]
     end
     style SWE fill:none,stroke:none
 
-    E3 --> JOIN[Next: Product Engineer]
+    E3 --> JOIN[Next Step: Product Engineering]
     J3 --> JOIN
     S3 --> JOIN
     class E1,E2,E3,J1,J2,J3,S1,S2,S3,JOIN card
