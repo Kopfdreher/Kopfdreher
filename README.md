@@ -16,12 +16,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,go,vue,nodejs,nextjs,postgres,docker,bash,linux,figma,ae,ps" alt="TypeScript, JavaScript, C, C++, Go, Vue, NodeJS, NextJS, PostgreSQL, Docker, Bash, Linux, Figma, After Effects, Photoshop" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,go,nodejs,nextjs,postgres,docker,c,cpp,bash,linux,figma,ai,ps" alt="TypeScript, JavaScript, React, Vue, Go, NodeJS, NextJS, PostgreSQL, Docker, C, C++, Bash, Linux, Figma, Illustrator, Photoshop" />
   </a>
 </p>
 
 <p align="center">
-  <sub><b>Currently:</b> TypeScript · JavaScript · C / C++ · Unix · <b>Also:</b> Go · Vue · Node.js · Next.js · PostgreSQL · Docker · Bash · Figma · Creative Cloud</sub>
+  <sub><b>Currently:</b> TypeScript · JavaScript · React · <b>Also:</b> Vue · Go · Node.js · Next.js · PostgreSQL · Docker · C / C++ · Bash · Unix · Figma · Creative Cloud</sub>
 </p>
 
 ---
@@ -30,22 +30,19 @@
 
 ```mermaid
 graph TD
-    classDef edu fill:#fdf4ff,stroke:#c084fc,stroke-width:2px;
-    classDef job fill:#fefce8,stroke:#eab308,stroke-width:2px;
-    classDef tech fill:#eff6ff,stroke:#60a5fa,stroke-width:2px;
-    classDef joint fill:#f0fdf4,stroke:#4ade80,stroke-width:2px;
-    classDef title fill:none,stroke:none;
+    classDef node fill:#fff,stroke:#d1d5db,stroke-width:1px;
+    classDef joint fill:#f0fdf4,stroke:#16a34a,stroke-width:2px;
 
     subgraph EDU ["🎓 Product Design"]
-        E1([B.A. Media<br/>2018-23]):::edu --> E2([M.A. Media<br/>2023-26]):::edu --> E3([Google UX<br/>2025]):::edu
+        E1([B.A. Media<br/>2018-23]):::node --> E2([Google UX Cert.<br/>2025]):::node --> E3([M.A. Media<br/>2023-26]):::node
     end
 
     subgraph JOB ["💼 Work Experience"]
-        J1([Product Designer<br/>Backdigital]):::job --> J2([Motion Designer<br/>XDi]):::job --> J3([Design System Engineer<br/>Invesdor]):::job
+        J1([Product Designer<br/>2021-23]):::node --> J2([Motion Designer<br/>2024-25]):::node --> J3([Design System Engineer<br/>2025-26]):::node
     end
 
     subgraph SWE ["💻 Software Engineering"]
-        S1([Tutor<br/>2020-21]):::tech --> S2([42 Berlin<br/>2024-26]):::tech --> S3([Fullstack Open<br/>2026]):::tech
+        S1([Tutor<br/>2020-21]):::node --> S2([42 Berlin<br/>2024-26]):::node --> S3([Fullstack Open<br/>2026]):::node
     end
 
     E3 --> JOIN([2026: Convergence]):::joint
@@ -58,8 +55,8 @@ graph TD
 | 🎓 Design Education | 💼 Jobs | 💻 Engineering |
 |---|---|---|
 | B.A. Media Production, OWL (2018–23) — 1.6 | Product Designer, Backdigital (2021–23) | Programming Tutor, OWL (2020–21) |
-| M.A. Media Production, OWL (2023–26) — 1.4 | Motion Designer, XDi (2024–25) | 42 Berlin Core — C/C++ & Unix (2024–26) |
-| Google UX Certificate (2025) | Design System Engineer, Invesdor (2025–26) | Fullstack Open, Helsinki (2026) |
+| Google UX Certificate (2025) | Motion Designer, XDi (2024–25) | 42 Berlin Core — C/C++ & Unix (2024–26) |
+| M.A. Media Production, OWL (2023–26) — 1.4 | Design System Engineer, Invesdor (2025–26) | Fullstack Open, Helsinki (2026) |
 | | | **2026 → Platform Engineering:** Cloud, K8s, CI/CD, Go |
 
 ---
