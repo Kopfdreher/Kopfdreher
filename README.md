@@ -10,7 +10,6 @@
 </p>
 
 ---
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -31,42 +30,44 @@
 graph TD
     classDef card rx:10,ry:10
 
-    subgraph EDU [Product Design]
+    subgraph EDU [🎓 Product Design]
         direction TB
-        E1[Bachelor 2018—2023] --> E2[Google UX 2025] --> E3[Master 2023—2026]
+        E1[Bachelor<br/>2018—2023] --> E2[Google UX Cert<br/>2025] --> E3[Master<br/>2023—2026]
     end
     style EDU fill:none,stroke:none
 
-    subgraph JOB [Work Experience]
+    subgraph JOB [💼 Work]
         direction TB
-        J1[Product Designer 2021—2023] --> J2[Motion Designer 2024—2025] --> J3[Design System Engineer 2025—2026]
+        J1[Product Designer<br/>2021—2023] --> J2[Motion Designer<br/>2024—2025] --> J3[Design Engineer<br/>2025—2026]
     end
     style JOB fill:none,stroke:none
 
-    subgraph SWE [Software Engineering]
+    subgraph SWE [💻 Software Engineering]
         direction TB
-        S1[Lectures Assistant 2020—2021] --> S2[42 Berlin 2025—2026] --> S3[Fullstack Open 2026]
+        S1[Coding Tutor<br/>2020—2021] --> S2[42 Berlin<br/>2025—2026] --> S3[Fullstack Open<br/>2026]
     end
     style SWE fill:none,stroke:none
 
-    E3 --> JOIN[Next Step: Product Engineering]
+    E3 --> JOIN[Next Step:<br/>Product Engineer]
     J3 --> JOIN
     S3 --> JOIN
     class E1,E2,E3,J1,J2,J3,S1,S2,S3,JOIN card
 ```
 
+### Education
+
 #### 🎓 Product Design 
-- B.A. Media Production, OWL (2018–23) — Grade 1.6
-- Google UX Certificate (2025) 
-- M.A. Media Production, OWL (2023–26) — Grade 1.4
+- Google UX Certification, Coursera
+- Bachelor [in](2026-10-24_in.md) Media Production, TH-OWL<br/>Grade 1.6
+- Master in Media Production, TH-OWL<br/>Grade 1.4
 
 #### 💻 Software Engineering 
-- Programming Tutor, OWL (2020–21)
-- 42 Berlin Core — C/C++ & Unix (2024–26)
-- Fullstack Open, Helsinki (2026)
+- Coding Tutor, TH-OWL
+- Curriculum, 42 Berlin
+- Fullstack Open, Helsinki
 
-### 📂 Work
+### 💼 Work
 - Product Designer, Backdigital (2021-2023)
 - Motion Designer, XDi (2024-2025)
-- Design System Engineer, Invesdor (2025-2026)
+- Design Engineer, Invesdor (2025-2026)
 
