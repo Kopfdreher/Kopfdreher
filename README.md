@@ -48,7 +48,7 @@ graph TD
     end
     style SWE fill:none,stroke:none
 
-    E3 --> JOIN[Next Step:<br/>Product Engineer]
+    E3 --> JOIN[Next Step:<br/>Product / Platform<br/>Engineering]
     J3 --> JOIN
     S3 --> JOIN
     class E1,E2,E3,J1,J2,J3,S1,S2,S3,JOIN card
