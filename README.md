@@ -1,13 +1,6 @@
 <p align="center">
   <img src="Github-Banner.png" alt="I traded Figma for C++" width="100%" />
 </p>
-
-<h3 align="center">Sergej Gavrilov · @Kopfdreher</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sergej-gavrilov/">LinkedIn</a>
-</p>
-
 ---
 ### 🛠️ Tech Stack
 
