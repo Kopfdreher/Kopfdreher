@@ -3,7 +3,6 @@
 </p>
 
 <h3 align="center">Sergej Gavrilov · @Kopfdreher</h3>
-<p align="center">Product Designer turned Software Engineer</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sergej-gavrilov/">LinkedIn</a>
