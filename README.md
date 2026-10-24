@@ -32,13 +32,13 @@ graph TD
 
     subgraph EDU [🎓 Product Design]
         direction TB
-        E1[Bachelor<br/>2018—2023] --> E2[Google UX Cert<br/>2025] --> E3[Master<br/>2023—2026]
+        E1[B.A. Media<br/>2018—2023] --> E2[Google UX Cert<br/>2025] --> E3[M.A. Media<br/>2023—2026]
     end
     style EDU fill:none,stroke:none
 
     subgraph JOB [💼 Work]
         direction TB
-        J1[Product Designer<br/>2021—2023] --> J2[Motion Designer<br/>2024—2025] --> J3[Design Engineer<br/>2025—2026]
+        J1[Product Design<br/>2021—2023] --> J2[Motion Design<br/>2024—2025] --> J3[Design Engineer<br/>2025—2026]
     end
     style JOB fill:none,stroke:none
 
@@ -54,17 +54,21 @@ graph TD
     class E1,E2,E3,J1,J2,J3,S1,S2,S3,JOIN card
 ```
 
-### Education
+---
 
-#### 🎓 Product Design 
+### 🎓 Education
+
+#### Product Design 
 - Google UX Certification, Coursera
-- Bachelor [in](2026-10-24_in.md) Media Production, TH-OWL<br/>Grade 1.6
+- Bachelor in Media Production, TH-OWL<br/>Grade 1.6
 - Master in Media Production, TH-OWL<br/>Grade 1.4
 
-#### 💻 Software Engineering 
+#### Software Engineering 
 - Coding Tutor, TH-OWL
 - Curriculum, 42 Berlin
 - Fullstack Open, Helsinki
+
+---
 
 ### 💼 Work
 - Product Designer, Backdigital (2021-2023)
