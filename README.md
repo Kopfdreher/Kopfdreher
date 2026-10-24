@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">Sergej Gavrilov · @Kopfdreher</h3>
-<p align="center">Product Designer turned Software Engineer — 42 Berlin</p>
+<p align="center">Product Designer turned Software Engineer</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sergej-gavrilov/">LinkedIn</a>
@@ -58,20 +58,19 @@ graph TD
 
 ### 🎓 Education
 
-#### Product Design 
-- Google UX Certification, Coursera
-- Bachelor in Media Production, TH-OWL<br/>Grade 1.6
-- Master in Media Production, TH-OWL<br/>Grade 1.4
-
-#### Software Engineering 
-- Coding Tutor, TH-OWL
-- Curriculum, 42 Berlin
-- Fullstack Open, Helsinki
+| 🎨 Product Design | 💻 Software Engineering |
+|---|---|
+| Google UX Certification, Coursera | Coding Tutor, TH-OWL |
+| Bachelor in Media Production, TH-OWL | Curriculum, 42 Berlin |
+| Master in Media Production, TH-OWL | Fullstack Open, Helsinki |
 
 ---
 
 ### 💼 Work
-- Product Designer, Backdigital (2021-2023)
-- Motion Designer, XDi (2024-2025)
-- Design Engineer, Invesdor (2025-2026)
+
+| Role |
+|---|
+| Product Designer, Backdigital (2021-2023) |
+| Motion Designer, XDi (2024-2025) |
+| Design Engineer, Invesdor (2025-2026) |
 
