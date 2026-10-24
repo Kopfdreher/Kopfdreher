@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,go,nodejs,nextjs,postgres,docker,c,cpp,bash,linux,figma,ai,ps" alt="TypeScript, JavaScript, React, Vue, Go, NodeJS, NextJS, PostgreSQL, Docker, C, C++, Bash, Linux, Figma, Illustrator, Photoshop" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,go,nodejs,nextjs,postgres,docker,c,cpp,bash,figma" alt="TypeScript, JavaScript, React, Vue, Go, NodeJS, NextJS, PostgreSQL, Docker, C, C++, Bash, Figma" />
   </a>
 </p>
 
@@ -30,8 +30,7 @@
 
 ```mermaid
 graph TD
-    classDef node fill:#fff,stroke:#d1d5db,stroke-width:1px;
-    classDef joint fill:#f0fdf4,stroke:#16a34a,stroke-width:2px;
+    classDef node stroke:#d1d5db,stroke-width:1px;
 
     subgraph EDU ["🎓 Product Design"]
         E1([B.A. Media<br/>2018-23]):::node --> E2([Google UX Cert.<br/>2025]):::node --> E3([M.A. Media<br/>2023-26]):::node
@@ -45,23 +44,19 @@ graph TD
         S1([Tutor<br/>2020-21]):::node --> S2([42 Berlin<br/>2024-26]):::node --> S3([Fullstack Open<br/>2026]):::node
     end
 
-    E3 --> JOIN([2026: Convergence]):::joint
+    E3 --> JOIN([Next Step: Product Engineer])
     J3 --> JOIN
     S3 --> JOIN
 
-    JOIN --> P1([Platform Engineering<br/>Cloud / K8s / DevOps]):::joint
 ```
 
-| 🎓 Design Education | 💼 Jobs | 💻 Engineering |
+| 🎓 Product Design | 💼 Jobs | 💻 Software Engineering |
 |---|---|---|
 | B.A. Media Production, OWL (2018–23) — 1.6 | Product Designer, Backdigital (2021–23) | Programming Tutor, OWL (2020–21) |
 | Google UX Certificate (2025) | Motion Designer, XDi (2024–25) | 42 Berlin Core — C/C++ & Unix (2024–26) |
 | M.A. Media Production, OWL (2023–26) — 1.4 | Design System Engineer, Invesdor (2025–26) | Fullstack Open, Helsinki (2026) |
-| | | **2026 → Platform Engineering:** Cloud, K8s, CI/CD, Go |
 
----
 
 ### 📂 Work
 
-- **Code:** Check pinned repos for current 42 / C++ projects
-- **Design:** Full portfolio at [sgavrilov.de](https://sgavrilov.de)
+- **Code:** Check pinned repos for current projects
