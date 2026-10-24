@@ -1,7 +1,9 @@
 <p align="center">
   <img src="Github-Banner.png" alt="I traded Figma for C++" width="100%" />
 </p>
+
 ---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
