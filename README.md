@@ -60,7 +60,7 @@ graph TD
 #### Software Engineering
 - Coding Tutor, TH-OWL
 - Curriculum, 42 Berlin
-- Fullstack Open, Helsinki
+- Fullstack Open, University of Helsinki
 
 ---
 
