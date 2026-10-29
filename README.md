@@ -54,11 +54,11 @@ graph TD
 
 #### Product Design
 - Google UX Certification, Coursera
-- Bachelor in Media Production, TH-OWL
-- Master in Media Production, TH-OWL 
+- Bachelor in Media Production, OWL University of Applied Sciences
+- Master in Media Production, OWL University of Applied Sciences
 
 #### Software Engineering
-- Coding Tutor, TH-OWL
+- Coding Tutor, OWL University of Applied Sciences
 - Curriculum, 42 Berlin
 - Fullstack Open, University of Helsinki
 
