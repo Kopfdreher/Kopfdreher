@@ -53,19 +53,19 @@ graph TD
 ### 🎓 Education
 
 #### Product Design
-- Google UX Certification, Coursera
-- Bachelor in Media Production, OWL University of Applied Sciences
-- Master in Media Production, OWL University of Applied Sciences
+- [Google UX Certification, Coursera](https://drive.google.com/file/d/1vbchJ-sBVZnZADXdIcjCByg5KZBme9Hh/view?usp=sharing)
+- [Bachelor in Media Production, OWL University of Applied Sciences](https://www.th-owl.de/elsa/record/9596)
+- [Master in Media Production, OWL University of Applied Sciences](https://www.th-owl.de/elsa/record/14015)
 
 #### Software Engineering
 - Coding Tutor, OWL University of Applied Sciences
-- Curriculum, 42 Berlin
-- Fullstack Open, University of Helsinki
+- [Computer Science, 42 Berlin](https://drive.google.com/file/d/11gtbQ7IAeZVkvZnyaruM-zmlFmmM67kl/view?usp=sharing)
+- [Fullstack Open, University of Helsinki](https://github.com/Kopfdreher/fullstack-open-part00-05)
 
 ---
 
 ### 💼 Work
-- Product Designer, Backdigital (2021-2023)
-- Motion Designer, XDi (2024-2025)
-- Design Engineer, Invesdor (2025-2026)
+- [Product Designer, Backdigital (2021-2023)](https://drive.google.com/file/d/1vXWnqa2pzXEs2_VO3BkU9qoV0SWQceti/view?usp=sharing)
+- [Motion Designer, XDi (2024-2025)](https://drive.google.com/file/d/1N1V_A1uxUFHQcBHeg2-DUT1nZkfhC5rW/view?usp=sharing)
+- [Design Engineer, Invesdor (2025-2026)](https://drive.google.com/file/d/1hu7Pm-XcKPr5YuuXv2rk8rUJ_SF-dLX7/view?usp=sharing)
 
